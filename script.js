@@ -1,4 +1,5 @@
 // let cyfra = 1;
+
 let boxMy = document.querySelector('.box');
 let cyfra = 11;
 boxMy.innerHTML = cyfra;
