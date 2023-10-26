@@ -23,11 +23,10 @@ body {
   color: floralwhite;
   margin-top: auto;
 
-  font-size: 150px;
+  font-size: 170px;
 
   /* justify-content: center; */
 
 }
-@animate {
-  
-}
+
+@animate {}
